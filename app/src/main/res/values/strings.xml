@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="headLine">HeadLine</string>
+    <string name="latest">Latest</string>
+    <string name="india">India</string>
+    <string name="world">World</string>
+    <string name="buisness">Buisness</string>
+    <string name="technology">Technology</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="sports">Sports</string>
+    <string name="science">Science</string>
+    <string name="health">Health</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="no_internet_connection">No Internet Connection</string>
+</resources>
